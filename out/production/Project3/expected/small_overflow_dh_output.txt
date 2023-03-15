@@ -1,0 +1,100 @@
+true 1 0.0200 0
+true 2 0.0400 0
+true 3 0.0600 1
+true 4 0.0800 0
+true 5 0.1000 0
+true 6 0.1200 0
+true 7 0.1400 0
+true 8 0.1600 0
+true 9 0.1800 0
+true 10 0.2000 1
+true 11 0.2200 0
+true 12 0.2400 1
+true 13 0.2600 0
+true 14 0.2800 0
+true 15 0.3000 0
+true 16 0.3200 0
+true 17 0.3400 2
+true 18 0.3600 0
+true 19 0.3800 1
+true 20 0.4000 0
+true 21 0.4200 1
+true 22 0.4400 0
+true 23 0.4600 0
+true 24 0.4800 0
+true 25 0.5000 1
+true 26 0.5200 2
+true 27 0.5400 0
+true 28 0.5600 1
+true 29 0.5800 0
+true 30 0.6000 0
+true 31 0.6200 1
+true 32 0.6400 1
+true 33 0.6600 1
+true 34 0.6800 3
+true 35 0.7000 0
+true 36 0.7200 3
+true 37 0.7400 5
+true 38 0.7600 1
+true 39 0.7800 0
+true 40 0.8000 2
+true 41 0.8200 2
+true 42 0.8400 6
+true 43 0.8600 8
+true 44 0.8800 1
+true 45 0.9000 4
+true 46 0.9200 5
+true 47 0.9400 2
+true 48 0.9600 16
+true 49 0.9800 13
+true 50 1.0000 17
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000
+false 50 1.0000

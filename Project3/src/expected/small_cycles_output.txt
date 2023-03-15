@@ -1,0 +1,14 @@
+true 1 0.0714 0
+true 2 0.1429 1
+true 3 0.2143 1
+true 4 0.2857 1
+true 5 0.3571 2
+true 6 0.4286 4
+true 7 0.5000 4
+false 7 0.5000
+false 7 0.5000
+false 7 0.5000
+false 7 0.5000
+false 7 0.5000
+false 7 0.5000
+false 7 0.5000
