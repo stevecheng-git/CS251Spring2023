@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Objects;
 
 public class Utils {
-    public static final String ROOT = "C:\\Users\\jordan\\IdeaProjects\\CS251Spring2023\\Project3\\src";
+    public static final String ROOT = "C:/Users/jordan/IdeaProjects/CS251Spring2023/Project3/src";
 
     public static void checkEquals(Object expected, Object actual, String message) {
         if (!Objects.equals(expected, actual))

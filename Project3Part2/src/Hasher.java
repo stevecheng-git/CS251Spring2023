@@ -1,6 +1,4 @@
 import com.google.common.hash.Hashing;
-import com.google.common.hash.HashFunction;
-import java.util.Random;
 
 // Hasher class -- implements different hashing algorithms
 public class Hasher {
